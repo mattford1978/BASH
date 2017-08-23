@@ -1,0 +1,1 @@
+sudo apt-get install python2.7curl -O https://bootstrap.pypa.io/get-pip.pysudo python get-pip.pysudo pip install awsclisudo apt-get --assume-yes install apache2sudo apt updatesudo aws s3 cp s3://location/index.html /var/www/htmlsudo service apache2 restart
