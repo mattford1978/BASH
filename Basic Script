@@ -1,0 +1,1 @@
+#!/bin/bashYum install httpd –yYum update –yAws s3 cp s3://<BUCKETNAME>t/index.html /var/www/htmlService httpd startChkconfig httpd on
