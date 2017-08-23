@@ -1,0 +1,1 @@
+yum install httpd –yservice httpd statusservice httpd startchkconfig httpd on
